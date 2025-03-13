@@ -1,4 +1,6 @@
 
+package mian
+
 type Options struct {
 	WorkDir           string // 工作数据目录;
 	MemTableSize      int64  // 内存表最大限制;
